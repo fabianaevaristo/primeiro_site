@@ -1,0 +1,261 @@
+body{
+    font-family: inter;
+}
+.hero{
+    background-image: url(https://shortlist.io/wp-content/uploads/2021/03/hero_bg_image.svg);
+    background-size: cover;
+    padding: 150px 0;
+}
+
+.hero .cards{
+    margin: 0;
+    margin-top: 100px;
+}
+.hero .cards img{
+    width: 160px;
+}
+
+.cliente{
+    text-align: center;
+    padding: 50px 0 0;
+    background-color: rgba(231, 236, 240, 0.774);
+}
+
+.cliente .titulo{
+    margin-top: 0;
+}
+
+.cliente .cards img{
+    width: 150px;
+    margin: 50px; 
+    vertical-align: middle; 
+}
+
+.subtitulo{
+    font-size: 16px;
+    color: #ff0ab5;
+}
+
+.subtitulo.verde{
+   color: #39d6b4;
+}
+
+.subtitulo.rosa{
+    color:#ff7bb4;
+}
+
+.final{
+    text-align: center;
+}
+
+.final a{
+     text-decoration: none;
+     font-weight: bold;
+}
+
+.titulo{            
+    font-size: 68px;
+    color: rgb(23, 32, 75);
+}
+
+.titulo.menor{
+    font-size: 48px;
+}
+
+.titulo.obedecer{
+    font-size: 20px;
+}
+.texto{ 
+    font-size: 16px;
+    color: #71768c;
+    margin-bottom: 50px;
+    padding: 0px 118.118px;
+}
+
+.botao{ 
+    color: #fff;
+    font-size: 16px;
+    padding: 17px 40px;
+    background-color: #39d6b4;
+    display: inline-block; 
+}
+.botao.rosa{
+    background-color: #ff7bb4;
+}
+
+.final .cor{ color:#39d6b4;
+    font-size: 14px;
+    margin-top: 25px;
+    display: block;
+}
+
+.cinza{
+    color: rgba(75, 73, 73, 0.747);
+    display: block;
+    font-size: 12px;  
+    margin: 0px; 
+    text-align: left;
+    text-decoration: none;
+    font-weight: bold;
+}  
+
+.cinza:hover{
+    color: rgb(100, 100, 245);
+}
+
+.convite{
+    background-color: rgba(231, 236, 240, 0.774);
+    overflow: auto;
+}
+.estrela{
+    margin: 30px 0 20px; 
+    width: 110px;
+  
+}
+
+.posicao{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: left;
+}
+
+.retrato{
+    width: 47px ;
+    height: 47px;
+    float: left;
+    margin-right: 20px;
+}
+
+.nome{
+    font-size: 14px;
+    color:#0f0f0f;
+    margin: 0;
+}
+
+.sigla{
+    font-size: 14px;
+    color:#71768c;
+    margin: 0;
+
+}
+
+.relato{
+    background-color: white;
+    padding: 30px 30px 70px;
+    width: 46%;
+    height: 50%;
+    margin:2%;
+    float: left;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.relato .titulo{
+    margin: 0 0 25px;
+}
+
+.lista{
+    overflow: auto;
+    padding: 0;
+}
+
+.lista-item{
+    list-style: none;
+    float: left;
+    padding-right: 2em;
+    width: 50%;
+    box-sizing: border-box;   
+}
+
+.lista .verde{
+    color: #39d6b4; 
+}
+
+.lista .rosa{
+    color: #ff7bb4;
+}
+
+.video{
+    background-color: #F8F9FC;
+}
+
+.video .grupo{
+    width: 49%;
+    display: inline-block;
+}
+
+.video .grupo img{
+    max-width: 100%;
+
+}
+
+.video .texto{
+    width: 50%;
+    padding: 20px 0 15px 0 ;
+    display: inline-block;
+}
+
+.efeito{
+    width: 100%;
+    padding-bottom: 57%;
+    background-size: 100% auto;
+    background-position: center;
+    transition: .3s;
+    border-radius: 5px;
+}
+
+.efeito:hover{
+    background-size: 125% auto;
+}
+
+.efeito.efeito-1{
+    background-image: url(https://shortlist.io/wp-content/uploads/2021/10/linkbuilng-slblog-650x433.jpg);
+}
+
+.efeito.efeito-2{
+    background-image: url(https://shortlist.io/wp-content/uploads/2021/08/istockphoto-1137014758-612x612-1.jpg);
+}
+
+.efeito.efeito-3{
+    background-image: url(https://shortlist.io/wp-content/uploads/2021/07/pexels-fauxels-3183153_s_o-650x433.jpg);
+}
+
+.hover li{
+    display:inline-block;
+    width: 32%;
+    padding: .5%;
+}
+
+.moças{
+    max-width: 50%;
+    width: 454px;
+    color: #71768c;
+    background-position: center;
+}
+
+.agencies .texto{
+    width: 50%;
+    padding: 20px 0 15px 0 ;
+    display: inline-block;
+}
+
+.content{
+    max-width: 950px;
+    margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+
+
