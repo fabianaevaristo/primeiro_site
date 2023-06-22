@@ -176,7 +176,8 @@ body{
 }
 
 .video{
-    background-color: #F8F9FC;
+    background-color: #F8F9FC;  
+    text-align: center;
 }
 
 .video .grupo{
